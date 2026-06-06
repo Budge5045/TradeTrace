@@ -1,0 +1,25 @@
+TradeTrace License
+
+Copyright (c) 2026 Buzzle's Hive
+
+You can use this software on Minecraft servers.
+
+Here are things you can do:
+
+* Use the plugin on your servers or servers you run for business.
+
+* Change settings in configuration files.
+
+* Make copies of your files for safety.
+
+Here are things you cannot do:
+
+* Sell this plugin to others.
+
+* Claim this plugin as your work.
+
+* Put changed versions online without asking the author
+
+This software is given to you without any promises. The author will not be responsible if you get in trouble using this software.
+
+All rights are kept by the author.
